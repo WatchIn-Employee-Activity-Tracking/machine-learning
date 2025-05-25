@@ -1,7 +1,5 @@
 # Proyek Klasifikasi Mata Terbuka & Mata Tertutup (Drowsiness Detection)
 
-Contoh visualisasi deteksi mata terbuka/tertutup
-
 ## Daftar Isi
 
 - [Tentang Proyek](#tentang-proyek)
